@@ -1,0 +1,20 @@
+#============================================================================================================================
+# Folder tree
+#---------------------------------------------------------------------------------------------------------------------------- 
+# 1 means that the folder exists or has been created
+# 0 means that the folder doesn't exist/must be created or the control has not been done
+#============================================================================================================================
+0,Development
+0,Emulators/Hatari
+0,Emulators/Vice
+0,Emulators/RetroArch
+0,Emulators/DOSBox
+0,Emulators
+0,Roms/Computers/AtariST
+0,Roms/Computers/C64
+0,Roms/Computers/DOS
+0,Roms/Computers
+0,Roms/Consoles
+0,Roms
+0,Games/Doom
+0,Games

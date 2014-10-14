@@ -1,0 +1,33 @@
+#============================================================================================================================ 
+# Libraries 
+#----------------------------------------------------------------------------------------------------------------------------  
+# 1 means that the library is (or has been) installed 
+# 0 means that the library is not installed or the control has not been done 
+#============================================================================================================================ 
+0,automake
+0,bison
+0,build-essential
+0,byacc
+0,cmake
+0,dos2unix
+0,flex
+0,gawk
+0,gcc
+0,libasound2-doc
+0,libglib2.0-doc
+0,libglu1-mesa-dev
+0,libsdl1.2-dev
+0,libsdl-image1.2-dev
+0,libsdl-mixer1.2-dev
+0,libsdl-ttf2.0-dev
+0,libx11-dev
+0,libxaw7-dev
+0,libxcb-doc
+0,libxext-doc
+0,libxi-dev
+0,libxrandr-dev
+0,mercurial
+0,mesa-common-dev
+0,python-gi-cairo
+0,unzip
+0,zip
